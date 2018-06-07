@@ -1,0 +1,44 @@
+{
+    "enabled": true,
+    "context": "client",
+    "identifier": "com.pa.funmod2.icons",
+    "display_name": "Nuclear Mayhem Strategic Icons",
+    "description": "Nuclear Mayhem icons, includes icons from the Orbital Warfare Overhaul mod, again special thanks to them for allowing me to use their stuff :)",
+    "author": "s03g",
+    "date": "2017-02-24",
+    "version": "2.0.2",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "id": "funmodicons",
+    "icon": "",
+    "forum": "https://forums.uberent.com/threads/wip-server-fun-mod.68226/",
+    "dependencies": [
+        "com.s03g.funmod2"
+    ],
+    "url": "https://www.dropbox.com/s/cihhnobzg4bx76m/com.pa.funmod2.icons.zip?dl=1",
+    "download": "https://cdn.palobby.com/community-mods/downloads/com.pa.funmod2.icons.zip",
+    "unitList": false,
+    "build": "Unknown",
+    "fileSystem": false,
+    "searchable": [
+        "fun",
+        "mod",
+        "strategic",
+        "icons",
+        "s03g"
+    ],
+    "sort": "fun mod strategic icons",
+    "authors": [
+        "s03g"
+    ],
+    "timestamp": 1478908800000,
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": false,
+    "titans": false,
+    "conflicts": {}
+}
